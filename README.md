@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, artificial intelligence, web security, bot/fraud detection.
 - 🌱 I’m currently learning browser/device fingerprinting using advanced AI technique.
 - 💞️ I’m looking to collaborate on browser/device fingerprinting.
-- 📫 How to reach me ...
+- 📫 How to reach me: ping me here.
 
 <!---
 jiehuang2019/jiehuang2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
