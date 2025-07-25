@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jiehuang2019.
-- 👀 I’m interested in machine learning, artificial intelligence, web security, bot/fraud detection.
-- 🌱 I’m currently learning browser/device fingerprinting using advanced AI technique.
-- 💞️ I’m looking to collaborate on browser/device fingerprinting.
+- 👋 Hi, This is @jiehuang2019.
+- 👀 I’m interested in GPU architecture, CUDA coding, data analysis, ML, AI, Transformer, BERT, GPT, LLM, agent, fine tuning (LoRA, Adapter, etc), web security, bot/fraud detection, automation and more.
+- 🌱 I’m currently learning advanced LLM/Agent/CUDA/Transformer technique.
+- 💞️ I’m looking to collaborate on LLM/Agent/fine-tuning.
 - 📫 How to reach me: ping me here.
 
 <!---
